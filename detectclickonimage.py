@@ -1,16 +1,3 @@
-################### Simple Detect #############
-
-# import cv2
-# def mousePoints(event,x,y,flags,params):
-#     if event == cv2.EVENT_LBUTTONDOWN:
-#         print(x,y)
-#
-# img = cv2.imread('Resources/cards.jpg')
-# cv2.imshow("Original Image ", img)
-# cv2.setMouseCallback("Original Image ", mousePoints)
-# cv2.waitKey(0)
-
-
 ######### WARP PRESPECTIVE IMPLEMANTAION WITH MOUSE CLICKS ##################
 
 import cv2
@@ -28,7 +15,7 @@ def mousePoints(event, x, y, flags, params):
         print(circles)
 
 
-img = cv2.imread('resources/carter.jpg')
+img = cv2.imread('images/carter.jpg')
 while True:
 
     if counter == 4:
