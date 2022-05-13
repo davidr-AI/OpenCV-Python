@@ -1,4 +1,3 @@
-######### WARP PRESPECTIVE IMPLEMANTAION WITH MOUSE CLICKS ##################
 
 import cv2
 import numpy as np
