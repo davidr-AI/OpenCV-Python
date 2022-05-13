@@ -15,9 +15,9 @@
 <td align="center">Creating a warp perspective of a selected area of an image using fixed points.   <br></td>
 </tr>
     <tr>
-<td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/attendance.py">FACE RECOGNITION + ATTENDANCE</a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/images/onclick.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/images/onclick.gif" width="360" height="150" style="max-width: 100%;"></a></td>
-<td align="center">Creating a warp perspective of a selected area of an image using fixed points.   <br></td>
+<td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/attendance.py">Face Recognition + Attendance</a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/images/Attendance.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/images/Attendance.gif" width="360" height="150" style="max-width: 100%;"></a></td>
+<td align="center">Creating an Attendance project that will use webcam to detect faces and record the attendance live in an excel sheet.   <br></td>
 </tr>
 </tbody>
 </table>
