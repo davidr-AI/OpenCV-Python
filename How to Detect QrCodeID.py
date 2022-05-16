@@ -2,7 +2,9 @@ import cv2
 import numpy as np
 from pyzbar.pyzbar import decode
 
-# img = cv2.imread('1.png')
+# img = cv2.imread('your image')
+
+
 cap = cv2.VideoCapture(0)
 cap.set(3, 640)
 cap.set(4, 480)
