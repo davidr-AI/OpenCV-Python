@@ -3,7 +3,7 @@
 <thead>
 <tr>
 <th align="center">Topic</th>
-<th align="center">Image</th>
+<th align="center">Screen Shot</th>
 <th align="center">Description</th>
 </tr>
 </thead>
