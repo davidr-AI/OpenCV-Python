@@ -15,7 +15,7 @@ print(myList)
 for cl in myList:
     curImg = cv2.imread(f'{path}/{cl}')
     images.append(curImg)
-    # splitting the name...instead of name.jpg it will give name and without jpg
+    # splitting the name...instead of name.jpg it will give name and without the file extension
     classNames.append(os.path.splitext(cl)[0])
 
 print(classNames)
