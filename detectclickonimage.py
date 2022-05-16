@@ -9,6 +9,14 @@ counter = 0
 def mousePoints(event, x, y, flags, params):
     global counter
     if event == cv2.EVENT_LBUTTONDOWN:
+        print(x, ' ', y)
+
+        # displaying the coordinates
+        # on the image window
+        font = cv2.FONT_HERSHEY_SIMPLEX
+        cv2.putText(img, str(x) + ',' +
+                    str(y), (x, y), font,
+                    1, (255, 0, 0), 2)
         circles[counter] = x, y
         counter = counter + 1
         print(circles)
