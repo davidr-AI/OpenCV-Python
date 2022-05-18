@@ -1,6 +1,5 @@
 # USAGE
-# python localize_text_tesseract.py --image apple_support.png
-# python localize_text_tesseract.py --image apple_support.png --min-conf 50
+# python localize_text_tesseract.py --image OCR.png
 
 # import the necessary packages
 from pytesseract import Output
