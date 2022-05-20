@@ -39,7 +39,7 @@
 <td align="center">Improve OCR accuracy by automatically spellchecking OCR’d text<br></td>
 </tr>
   
-</tbody>
+  </tbody>
 </table>
   
 
