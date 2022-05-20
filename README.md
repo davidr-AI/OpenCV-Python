@@ -1,11 +1,16 @@
 <table>
 <thead>
 <tr>
-<th align="center">Topic</th>
+<th align="center"><h1 style="color:blue;">A Blue Heading</h1></th>
 <th align="center">Screen Shot</th>
 <th align="center">Description</th>
 </tr>
 </thead>
+   
+        
+        
+        
+   
 <tbody>
 <tr>
 <td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/localize_text_tesseract.py">Tesseract OCR: Text localization and detection</a></td>
