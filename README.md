@@ -7,8 +7,7 @@
 </tr>
 </thead>
 <tbody>
-  
-    <tr>
+   <tr>
 <td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/localize_text_tesseract.py">Tesseract OCR: Text localization and detection</a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/OCR.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/screenshot/OCR.png" width="360" height="150" style="max-width: 100%;"></a></td>
 <td align="center">How to utilize Tesseract to detect, localize, and OCR text, all within a single, efficient function call. <br></td>
@@ -35,7 +34,7 @@
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/ocr_and_spellcheck.py">Using spellchecking to improve Tesseract OCR accuracy"</a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/OCRspellcheck.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/images/OCRspellcheck.gif" width="360" height="150" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/OCRspellcheck.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/screenshot/OCRspellcheck.png" width="360" height="150" style="max-width: 100%;"></a></td>
 <td align="center">Improve OCR accuracy by automatically spellchecking OCR’d text<br></td>
 </tr>
   
