@@ -25,7 +25,7 @@
 </tr>
      <tr>
 <td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/How%20to%20Detect%20QRCode.py">QR-Code-Reader</a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/DetectQR.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/images/DetectQR.gif" width="360" height="150" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/DetectQR.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/screenshot/DetectQR.png" width="360" height="150" style="max-width: 100%;"></a></td>
 <td align="center"> Detect QR Code<br></td>
 </tr>
          <tr>
