@@ -1,5 +1,5 @@
 # USAGE
-# python localize_text_tesseract.py --image OCRspellcheck.gif
+# python localize_text_tesseract.py --image OCRspellcheck.png
 
 # import the necessary packages
 from pytesseract import Output
