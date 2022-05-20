@@ -7,7 +7,6 @@
 <th align="center">Description</th>
 </tr>
 </thead>
-  
   <tbody>
 <tr>
 <td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/localize_text_tesseract.py">Using spellchecking to improve Tesseract OCR accuracy"</a></td>
