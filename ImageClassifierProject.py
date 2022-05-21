@@ -81,7 +81,7 @@ while True:
     img2 = cv2.cvtColor(img2, cv2.COLOR_BGRA2GRAY)
     id = findId(img2, deslist)
     if id != -1:
-        cv2.putText(imgOriginal, classNames[id], (50, 50), cv2.FONT_HERSHEY_PLAIN, 1, (0, 0, 255), 2)
+        cv2.putText(imgOriginal, classNames[id], (50, 50), cv2.FONT_HERSHEY_PLAIN, 1, (255, 0, 0), 2)
 
     cv2.imshow('img2', imgOriginal)
     cv2.waitKey(1)
