@@ -1,5 +1,5 @@
 # USAGE
-# python ocr_and_spellcheck.py --image comic_spelling.png
+# python ocr_and_spellcheck.py --images OCRspellcheck.png
 
 # import the necessary packages
 from textblob import TextBlob
