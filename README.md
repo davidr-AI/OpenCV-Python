@@ -32,6 +32,11 @@
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/QRID.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/screenshot/QRID.png" width="360" height="150" style="max-width: 100%;"></a></td>
 <td align="center"> Detect QR Code + User ID <br></td>
 </tr>
+   <tr>
+<td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/ocr_and_spellcheck.py">Image Classifier Project</a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/OCRspellcheck.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/screenshot/OCRspellcheck.png" width="360" height="150" style="max-width: 100%;"></a></td>
+<td align="center">Create an Image Classifier using Feature Detection<br></td>
+</tr>
 <tr>
 <td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/ocr_and_spellcheck.py">Using spellchecking to improve Tesseract OCR accuracy"</a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/OCRspellcheck.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/screenshot/OCRspellcheck.png" width="360" height="150" style="max-width: 100%;"></a></td>
