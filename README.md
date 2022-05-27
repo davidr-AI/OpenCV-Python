@@ -38,9 +38,9 @@
 <td align="center"> Detect QR Code + User ID <br></td>
 </tr>
    <tr>
-<td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/ImageClassifierProject.py">Image Classifier Project</a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/classifier.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/screenshot/classifier.jpg" width="360" height="150" style="max-width: 100%;"></a></td>
-<td align="center">Create an Image Classifier using Feature Detection<br></td>
+<td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/Image%20stacking%20.py">Image Stack</a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/imagestack.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/screenshot/imagestack.gif" width="360" height="150" style="max-width: 100%;"></a></td>
+<td align="center">Stacking Images Vertically or Horizontally<br></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/ocr_and_spellcheck.py">Using spellchecking to improve Tesseract OCR accuracy"</a></td>
