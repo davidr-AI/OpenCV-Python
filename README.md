@@ -39,7 +39,7 @@
 </tr>
    <tr>
 <td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/Image%20stacking%20.py">Image Stack</a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/classifier.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/screenshot/classifier.jpg" width="360" height="150" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/imagestack.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/screenshot/imagestack.png" width="360" height="150" style="max-width: 100%;"></a></td>
 <td align="center">Stacking Images Vertically or Horizontally<br></td>
 </tr>
 <tr>
