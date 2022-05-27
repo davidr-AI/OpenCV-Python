@@ -2,7 +2,12 @@ import cv2
 import numpy as np
 import os
 
-path = "ImagesQuery"
+
+# save your images 
+path = "Images"
+
+
+# Creating Oriented FAST and Rotated BRIEF
 orb = cv2.ORB_create(nfeatures=1000)
 
 # importing images
