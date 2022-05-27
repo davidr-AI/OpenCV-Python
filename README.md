@@ -48,7 +48,7 @@
 <td align="center">Improve OCR accuracy by automatically spellchecking OCR’d text<br></td>
 </tr>
      <tr>
-<td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/ocr_and_spellcheck.py">"Object Detection Mobile Net SSD"</a></td>
+<td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/objectdetection.py">"Object Detection Mobile Net SSD"</a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/objectdetection.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/screenshot/objectdetection.png" width="360" height="150" style="max-width: 100%;"></a></td>
 <td align="center">MobilenetSSD is an object detection model that computes the bounding box and category of an object from an input image<br></td>
 </tr>
