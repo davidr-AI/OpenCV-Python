@@ -5,6 +5,7 @@ import face_recognition
 # loading images and convert to RGB..
 # we getting image in BGR but library understand RGB
 
+# using any image and test to see if it's matching with another image
 imgVince = face_recognition.load_image_file("images/carter.jpg")
 imgVince = cv2.cvtColor(imgVince, cv2.COLOR_BGR2RGB)
 imgTest = face_recognition.load_image_file("images/carter.png")
