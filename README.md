@@ -54,7 +54,7 @@
 </tr>
      
      <tr>
-<td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/detectclickonimage.py">Video Record</a></td>
+<td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/VideoRecord.py">Video Record</a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer">Comming Soon</a></td>
 <td align="center">Recording Yourself and Save To A Folder - Shows Date and Time   <br></td>
 </tr>
