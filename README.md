@@ -63,9 +63,9 @@
 <td align="center">Merge Multiple Pdf In One Pdf File<br></td>
 </tr>
          <tr>
-<td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/FileOrganizer.py">Automatic file organizer</a></td>
+<td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/FileOrganizer.py">Automatic files organizer</a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/fileorganizer.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/fileorganizer.gif" width="360" height="150" style="max-width: 100%;"></a></td>
-<td align="center">Arrange the file according to their type<br></td>
+<td align="center">Arrange the files according to their type<br></td>
 </tr>
   
   
