@@ -52,14 +52,12 @@
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/objectdetection.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/screenshot/objectdetection.png" width="360" height="150" style="max-width: 100%;"></a></td>
 <td align="center">MobilenetSSD is an object detection model that computes the bounding box and category of an object from an input image<br></td>
 </tr>
-     
      <tr>
 <td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/VideoRecord.py">Video Record</a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer">Comming Soon</a></td>
 <td align="center">Recording Yourself and Save To A Folder - Shows Date and Time   <br></td>
 </tr>
-     
-         <tr>
+    <tr>
 <td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/detectclickonimage.py">Merge Multiple Pdf Files</a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/onclick.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/screenshot/Warp.png" width="360" height="150" style="max-width: 100%;"></a></td>
 <td align="center">Merge Multiple Pdf In One Pdf File.<br></td>
