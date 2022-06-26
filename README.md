@@ -48,7 +48,7 @@
 <td align="center">Stacking Images Vertically or Horizontally<br></td>
 </tr>
      <tr>
-<td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/securitycamera.py">Email Bot</a></td>
+<td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/emailBot.py">Email Bot</a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer">Comming Soon</a></td>
 <td align="center">Create Your Own Email Bot<br></td>
 </tr>
