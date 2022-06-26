@@ -73,7 +73,7 @@
 <td align="center">Merge Multiple Pdf In One Pdf File<br></td>
 </tr>  
      <tr>
-<td align="center"><a href=" https://github.com/davidr-AI/OpenCV-Python/blob/main/virtualAssistant.py">Virtual Assistant</a></td>
+<td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/virtualAssistant.py">Virtual Assistant</a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer">Comming Soon</a></td>
 <td align="center">Create A Virtual Assistant <br></td>
 </tr>
