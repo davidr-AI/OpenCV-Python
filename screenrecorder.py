@@ -24,7 +24,7 @@ while True:
     img_final = cv2.cvtColor(img_np, cv2.COLOR_BGR2RGB)
 
     # show the image
-    cv2.imshow('Secret Capture', img_final)
+    cv2.imshow('Capture Screen', img_final)
 
     captured_video.write(img_final)
     if cv2.waitKey(10) == ord('q'):
