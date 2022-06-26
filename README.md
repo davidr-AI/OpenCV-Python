@@ -67,7 +67,17 @@
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/fileorganizer.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/fileorganizer.gif" width="360" height="150" style="max-width: 100%;"></a></td>
 <td align="center">Arrange the files according to their type<br></td>
 </tr>
-  
+       <tr>
+<td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/convertPdftoAudiobook.py">Convert any PDF File To An AudioBook</a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer">Comming Soon</a></td>
+<td align="center">Convert any PDF to an Audiobook<br></td>
+</tr>
+     
+          <tr>
+<td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/screenrecorder.py">Records Your Screen</a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer">Comming Soon</a></td>
+<td align="center">Build a Screen Recorder - Shows Date and Time<br></td>
+</tr>
   
 </tbody>
 </table>
