@@ -8,7 +8,7 @@
 </thead>
 <tbody>
          <tr>
-<td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/VideoRecord.py">Security Camera</a></td>
+<td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/securitycamera.py">Security Camera</a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer">Comming Soon</a></td>
 <td align="center">Building Your Own Security Camera - Can Also Add To This Code The Date and Time<br></td>
 </tr>
