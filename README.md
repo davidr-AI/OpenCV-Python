@@ -47,6 +47,11 @@
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/imagestack.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/screenshot/imagestack.png" width="360" height="150" style="max-width: 100%;"></a></td>
 <td align="center">Stacking Images Vertically or Horizontally<br></td>
 </tr>
+     <tr>
+<td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/securitycamera.py">Email Bot</a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer">Comming Soon</a></td>
+<td align="center">Create Your Own Email Bot<br></td>
+</tr>
     <tr>
 <td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/ocr_and_spellcheck.py">Using spellchecking to improve Tesseract OCR accuracy"</a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/OCRspellcheck.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/screenshot/OCRspellcheck.png" width="360" height="150" style="max-width: 100%;"></a></td>
