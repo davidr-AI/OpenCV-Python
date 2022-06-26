@@ -7,10 +7,10 @@
 </tr>
 </thead>
 <tbody>
-         <tr>
+      <tr>
 <td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/securitycamera.py">Security Camera</a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer">Comming Soon</a></td>
-<td align="center">Building Your Own Security Camera - Can Also Add To This Code The Date and Time<br></td>
+<td align="center">Building Your Own Security Camera With Motion Alert - Can Also Add To This Code The Date and Time<br></td>
 </tr>
      <tr>
 <td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/facerecognitioncheckimagestoseeifmatch.py">Check if two face recognition images are matching</a></td>
