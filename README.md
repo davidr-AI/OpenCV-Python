@@ -7,10 +7,10 @@
 </tr>
 </thead>
 <tbody>
-         <tr>
+<tr>
 <td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/securitycamera.py">Security Camera</a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer">Comming Soon</a></td>
-<td align="center">Building Your Own Security Camera - Can Also Add To This Code The Date and Time<br></td>
+<td align="center">Building Your Own Security Camera With Motion Alert - Can Also Add To This Code The Date and Time<br></td>
 </tr>
      <tr>
 <td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/facerecognitioncheckimagestoseeifmatch.py">Check if two face recognition images are matching</a></td>
@@ -37,7 +37,7 @@
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/DetectQR.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/screenshot/DetectQR.png" width="360" height="150" style="max-width: 100%;"></a></td>
 <td align="center"> Detect QR Code<br></td>
 </tr>
-         <tr>
+     <tr>
 <td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/How%20to%20Detect%20QrCodeID.py">QR-Code-Reader + ID</a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/QRID.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/screenshot/QRID.png" width="360" height="150" style="max-width: 100%;"></a></td>
 <td align="center"> Detect QR Code + User ID <br></td>
@@ -47,7 +47,12 @@
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/imagestack.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/screenshot/imagestack.png" width="360" height="150" style="max-width: 100%;"></a></td>
 <td align="center">Stacking Images Vertically or Horizontally<br></td>
 </tr>
-<tr>
+     <tr>
+<td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/securitycamera.py">Email Bot</a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer">Comming Soon</a></td>
+<td align="center">Create Your Own Email Bot<br></td>
+</tr>
+    <tr>
 <td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/ocr_and_spellcheck.py">Using spellchecking to improve Tesseract OCR accuracy"</a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/OCRspellcheck.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/screenshot/OCRspellcheck.png" width="360" height="150" style="max-width: 100%;"></a></td>
 <td align="center">Improve OCR accuracy by automatically spellchecking OCR’d text<br></td>
@@ -67,18 +72,17 @@
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/mergedpdf.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/mergedpdf.gif" width="360" height="150" style="max-width: 100%;"></a></td>
 <td align="center">Merge Multiple Pdf In One Pdf File<br></td>
 </tr>
-         <tr>
+    <tr>
 <td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/FileOrganizer.py">Automatic files organizer</a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/fileorganizer.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/fileorganizer.gif" width="360" height="150" style="max-width: 100%;"></a></td>
 <td align="center">Arrange the files according to their type<br></td>
 </tr>
-       <tr>
+    <tr>
 <td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/convertPdftoAudiobook.py">Convert any PDF File To An AudioBook</a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer">Comming Soon</a></td>
 <td align="center">Convert any PDF to an Audiobook<br></td>
 </tr>
-     
-          <tr>
+    <tr>
 <td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/screenrecorder.py">Records Your Screen</a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer">Comming Soon</a></td>
 <td align="center">Build a Screen Recorder - Shows Date and Time<br></td>
