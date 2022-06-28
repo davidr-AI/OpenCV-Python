@@ -18,9 +18,9 @@
 <td align="center">Basic understanding to find out if two face recognition images are matching<br></td>
 </tr>
          <tr>
-<td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/rgb.py">RGB and BGR </a></td>
+<td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/rgb.py">BGR To RGB </a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/RGB.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/RGB.gif" width="360" height="150" style="max-width: 100%;"></a></td>
-<td align="center">Difference between RGB and BGR<br></td>
+<td align="center">Convert BGR To RGB<br></td>
 </tr>
    <tr>
 <td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/localize_text_tesseract.py">Tesseract OCR: Text localization and detection</a></td>
