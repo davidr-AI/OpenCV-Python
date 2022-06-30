@@ -9,7 +9,7 @@
 <tbody>
      <tr>
 <td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/image_histogram_grayscale.py">Grayscale Histogram</a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/smoothandblur.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/smoothandblur.gif" width="360" height="150" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/hist_gray.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/hist_gray.gif" width="360" height="150" style="max-width: 100%;"></a></td>
 <td align="center">Demonstrates how to compute a pixel intensity histogram from an input, single channel, grayscale image<br></td>
 </tr>
      <tr>
