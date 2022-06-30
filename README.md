@@ -13,7 +13,7 @@
 <td align="center">Demonstrates how to compute a histogram for only a masked region of an input image<br></td>
 </tr>
         <tr>
-<td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/match_histograms.py">Histogram Matching</a></td>
+<td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/match_histograms.py">Matching Histogram</a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/hist_match.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/hist_match.gif" width="360" height="150" style="max-width: 100%;"></a></td>
 <td align="center">Histogram Matching using scikit-image<br></td>
 </tr>
