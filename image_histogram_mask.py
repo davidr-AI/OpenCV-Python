@@ -1,6 +1,4 @@
 # USAGE
-# python histogram_with_mask.py
-# https://www.geeksforgeeks.org/opencv-python-program-analyze-image-using-histogram/
 # import the necessary packages
 from matplotlib import pyplot as plt
 import numpy as np
