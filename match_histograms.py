@@ -1,5 +1,4 @@
-# -image empire_state_cloudy.png and empire...sunset.png
-# --source empire_state_cloudy.png --reference empire_state_sunset.png
+
 
 # import the necessary packages
 from skimage import exposure
