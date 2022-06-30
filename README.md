@@ -9,7 +9,7 @@
 <tbody>
          <tr>
 <td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/image_histogram_color.py">Color Histogram</a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/hist_gray.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/hist_gray.gif" width="360" height="150" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/hist_color.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/hist_color.gif" width="360" height="150" style="max-width: 100%;"></a></td>
 <td align="center">Shows out how to compute 1D (i.e., “flattened”), 2D, and 3D color histograms<br></td>
 </tr>
      <tr>
