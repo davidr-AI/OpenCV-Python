@@ -9,7 +9,7 @@
 <tbody>
      <tr>
 <td align="center"><a href="https://github.com/davidr-AI/OpenCV-Python/blob/main/smoothand_blur.py">Smoothing and Blurring</a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/faceimages.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/screenshot/faceimages.png" width="360" height="150" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/smoothandblur.gif"><img src="https://github.com/davidr-AI/OpenCV-Python/blob/main/gif/smoothandblur.gif" width="360" height="150" style="max-width: 100%;"></a></td>
 <td align="center">Smoothing and Blurring by using -Simple blurring (cv2.blur), Weighted Gaussian blurring (cv2.GaussianBlur),  Median filtering (cv2.medianBlur), and Bilateral blurring (cv2.bilateralFilter)<br></td>
 </tr>
 <tr>
